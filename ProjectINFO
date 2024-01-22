@@ -1,0 +1,10 @@
+Client (React Native):
+
+Handles user interface, authentication, and user interactions.
+Communicates with third-party authentication services and payment gateways directly.
+
+Backend:
+If needed, a lightweight backend (serverless or BaaS) could handle event-related logic, such as creating, updating, and retrieving event data.
+
+CURRENT APP CREATion
+No need for a custom API for authentication or payment processing; use existing service
